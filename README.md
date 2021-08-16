@@ -47,5 +47,5 @@ No´package.json
   "morango": "nodemon server.js"
   }
   
-  No prompt voce executa:
+  No prompt vc executa:
   npm run moprango 
