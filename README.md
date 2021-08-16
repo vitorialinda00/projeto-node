@@ -44,8 +44,8 @@ npm install nodemon -D   (por exemplo)
 No´package.json
 
 "scripts": {
-  "morango": "nodemon server.js"
+  "dev": "nodemon server.js"
   }
   
   No prompt vc executa:
-  npm run moprango 
+  npm run dev 
