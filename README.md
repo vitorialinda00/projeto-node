@@ -17,7 +17,15 @@ Exemplo:
  
 
 ### Iniciar o arquivo de configuração package.json
+
 -> npm init -y
+
+### Configuração do npm "NA ESCOLA" (basta 1 vez)
+npm set strict-ssl false
+npm config set registry https://registry.npmjs.org/
+ 
+### Configuração da comunicação com gitHub "NA ESCOLA" (basta 1 vez)
+git config --global http.sslVerify false
 
 ### Instalação de dependencias
 npm install "NOME DA TECNOLOGIA"
